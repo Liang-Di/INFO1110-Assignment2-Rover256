@@ -1,0 +1,10 @@
+START f
+STATS
+SCAN elevation
+MOVE N 1
+SCAN elevation
+MOVE W 1
+SCAN elevation
+STATS
+FINISH
+QUIT

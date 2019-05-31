@@ -1,0 +1,21 @@
+START f
+STATS
+SCAN shade
+SCAN elevation
+MOVE S 1
+SCAN shade
+MOVE S 1
+SCAN shade
+MOVE S 1
+SCAN shade
+MOVE S 1
+SCAN shade
+MOVE S 1
+SCAN shade
+MOVE S 95
+SCAN shade
+STATS
+WAIT 100
+STATS
+FINISH
+QUIT

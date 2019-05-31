@@ -1,0 +1,30 @@
+
+START <level file> - Starts the game with a provided file.
+QUIT - Quits the game
+HELP - Shows this message
+
+
+Explored: 3%
+Battery: 100/100
+
+
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-| |H|-|-|
+|-|+|-|-|-|
+|-|-|+|+|-|
+
+
+| | |#| | |
+| |#|#|#| |
+| | |H| | |
+|#| | |#| |
+| | | |#| |
+
+
+Explored: 83%
+Battery: 100/100
+
+
+You explored 83% of pluto
+

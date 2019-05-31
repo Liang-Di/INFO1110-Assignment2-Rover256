@@ -1,0 +1,8 @@
+HELP
+START f
+STATS
+SCAN elevation
+SCAN shade
+STATS
+FINISH
+QUIT
